@@ -1,5 +1,4 @@
-# Awesome Black-Box-UDA
-Black-box Unsupervised Domain Adaptation
+# Awesome Black-box Unsupervised Domain Adaptation
 
 
 2023
