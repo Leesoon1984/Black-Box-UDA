@@ -1,5 +1,11 @@
 # Awesome Black-box Unsupervised Domain Adaptation
 
+2024
+
+
+- [ICML 2024] Connecting the Dots: Collaborative Fine-tuning for Black-Box Vision-Language Models [code](https://github.com/mrflogs/CraFT)
+- [arXiv 2024] Label Space-Induced Pseudo Label Refinement for Multi-Source Black-Box Domain Adaptation
+
 
 2023
 
